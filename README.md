@@ -1,4 +1,4 @@
-### Hi there, my name is Vitalii👋
+# Hi there, my name is Vitalii👋
 <b>I'm a beginner front-end developer </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 ---

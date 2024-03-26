@@ -9,13 +9,13 @@
  
   
 
-- 🔥 I learn and become better every day 🔥  
+- 🔥 Over a year of experience in web development using React and Vue.js.   
   
-
-- 👨‍🎓 Open to learning new things📚  
+- 📌  Compliance with coding standards and best practices
+ 
+- 📚 Open to learning new things  
   
-
--  👁️‍🗨️ The one you are looking for🤝  
+- 🤝 The one you are looking for  
   
 
 <br/>  

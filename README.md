@@ -9,9 +9,14 @@
  
   
 
-- 🔥 Over a year of experience in web development using React and Vue.js.   
+- 🔥 Frontend developer with 2+ years of commercial experience working on
+production web applications and internal systems.   
   
-- 📌  Compliance with coding standards and best practices
+- 📌 Specialized in building reusable, maintainable frontend solutions and translating
+complex UI/UX requirements into clean, intuitive interfaces.
+
+- 📌 Experienced in taking ownership of features, improving existing architecture, and
+collaborating with cross-functional teams to deliver scalable product solutions.
  
 - 📚 Open to learning new things  
   
